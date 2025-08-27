@@ -84,7 +84,7 @@
         <UserManage v-if="page==='user'" />
       </div>
       <footer class="admin-footer">
-        <p class="admin-copyright">Copyright © 2025 Nav-Item | <a href="https://github.com/eooce/Nav-Item" target="_blank" class="footer-link">Powered by eooce</a></p>
+        <p class="admin-copyright">Copyright © 2025 Xiao-Ming | <a href="https://xm.339777.xyz" target="_blank" class="footer-link">Powered by XiaoMing</a></p>
       </footer>
     </main>
   </div>
@@ -615,4 +615,5 @@ function closeSider() {
 .menu-toggle {
   display: none;
 }
+
 </style> 
